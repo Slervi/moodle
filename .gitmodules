@@ -1,0 +1,3 @@
+[submodule "mod/hotpot"]
+	path = mod/hotpot
+	url = https://github.com/gbateson/moodle-mod_hotpot.git
