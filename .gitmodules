@@ -4,3 +4,7 @@
 [submodule "mod/hvp"]
 	path = mod/hvp
 	url = https://github.com/h5p/h5p-moodle-plugin.git
+[submodule "mod/lebl"]
+	path = mod/lebl
+	url = git@github.com:Slervi/Test.git
+	branch = master
